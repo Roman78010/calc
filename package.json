@@ -1,0 +1,18 @@
+{
+  "browserslist": [
+    "> 1%"
+  ],
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.5",
+    "babel-loader": "^9.1.2",
+    "core-js": "^3.31.0",
+    "tiny-slider": "^2.9.4",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "es6-promise-polyfill": "^1.2.0",
+    "jquery": "^3.7.0",
+    "nodelist-foreach-polyfill": "^1.2.0"
+  }
+}
